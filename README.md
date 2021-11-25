@@ -26,9 +26,9 @@ Besides that, I am really passionate about the field of **Augmented Reality** an
 ## Github Stats
 <br/>
 
-[![Harsh More's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=moreharsh&theme=react-dark&hide_border=true)](https://github.com/moreharsh/)
+[![Harsh More's github activity graph](https://activity-graph.herokuapp.com/graph?username=moreharsh)](https://github.com/moreharsh/github-readme-activity-graph)
 
-
+<br/>
 
 <div align="center">
   <a >
@@ -48,7 +48,8 @@ Besides that, I am really passionate about the field of **Augmented Reality** an
 
 ## Let's Connect
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moreharsh/)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshmore/)&nbsp;&nbsp;
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=moreharsh2001@gmail.com&su=Regarding&body=Hi%20Harsh!)
 
 <!--
 **moreharsh/moreharsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
